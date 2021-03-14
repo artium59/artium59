@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m worked in [ssafy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), [software maestro](https://swmaestro.org/sw/main/main.do)
+- 🔭 I’m currently working on [Kakaocommerce](https://kakaocommerce.com/)
+
+- 🔨 I’m worked in [ssafy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp), [software maestro](https://swmaestro.org/sw/main/main.do)
 
 - 🌱 I’m currently learning Spring Framework
 
