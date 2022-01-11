@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  - [kakao](https://www.kakaocorp.com/page/) (2022.01 ~ )
   - [Kakaocommerce](https://kakaocommerce.com/) (2021.01 ~ )
   - [ssafy](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) (2020.01 ~ 2020.12)
   - [SW Maestro](https://swmaestro.org/sw/main/main.do) (2019.06 ~ 2019.12)
